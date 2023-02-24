@@ -4,11 +4,12 @@
 
 The project is separated in threee notebooks:
 
-Notebook1  Training Model 1- of cycleGAN-with different experiment
+## Notebook1  Training Model 1- of cycleGAN-with different experiment
+
 DO NOT RUN IT!! because it will take few hours to get all output
 
 
-Table of content:
+### Table of content:
 
       -Description of the project
             -Architecture of CYCLE GAN
@@ -50,11 +51,12 @@ Table of content:
 link of the colab notebook: INSERT LINK HERE
 
 
-Notebook 2 - Training of second model : Neural style transfer with different experiments
+## Notebook 2 - Training of second model : Neural style transfer with different experiments
 DO NOT RUN IT!!
+### Table of content:
 
 
-Notebook 3 TEST-INSERT LINK HERE
+## Notebook 3 TEST-INSERT LINK HERE
 
 
 ## Colab notebooks structure:
