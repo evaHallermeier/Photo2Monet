@@ -2,7 +2,7 @@
 
 # Deep learning final semester Project - Kaggle competition: add Monet style to a photo
 
-The project is separated in threee notebooks:
+The project is separated in three notebooks:
 
 ## Notebook1 - Training Model 1- of cycleGAN-with different experiment
 DO NOT RUN IT!! because it will take few hours to get all output
