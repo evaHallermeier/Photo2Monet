@@ -6,6 +6,8 @@ The project is separated in threee notebooks:
 
 ## Notebook1 - Training Model 1- of cycleGAN-with different experiment
 DO NOT RUN IT!! because it will take few hours to get all output
+
+
 link of the colab notebook: https://colab.research.google.com/drive/1UBufJiyDc4_NaPOWSkX7kp_2YFD58E8P?usp=sharing
 
 
