@@ -4,12 +4,12 @@
 
 The project is separated in threee notebooks:
 
-## Notebook1  Training Model 1- of cycleGAN-with different experiment
-
+## Notebook1 - Training Model 1- of cycleGAN-with different experiment
 DO NOT RUN IT!! because it will take few hours to get all output
+link of the colab notebook: INSERT LINK HERE
 
 
-### Table of content:
+###Table of content:
 
       -Description of the project
             -Architecture of CYCLE GAN
@@ -48,31 +48,27 @@ DO NOT RUN IT!! because it will take few hours to get all output
                   -Image generation:transform photo to Monet style image
       -Kaggle submission: generate photos 256X256
 
-link of the colab notebook: INSERT LINK HERE
+
 
 
 ## Notebook 2 - Training of second model : Neural style transfer with different experiments
 DO NOT RUN IT!!
+link of the colab notebook: INSERT LINK HERE
 ### Table of content:
 
 
-## Notebook 3 TEST-INSERT LINK HERE
 
+## Notebook 3 TEST-
+INSERT LINK HERE
 
-## Colab notebooks structure:
-
-### Notebook for TRAINING STEP
-Table of content of the notebook:
-
-      INSERT HERE
-
-
-### Notenook TEST
 Table of content of the notebook:
       INSERT HERE
       
  ## Installation:
  The notebook 2 TEST run the notebook and at the cell of UPLOAD PHOTO: you can upload a photo of your choice, and the model will generate the Monet style version image.
+ 
+ 
+ Result of Best mode:
  
  INSERT HERE EXEMPLES OF RESULTS
  
