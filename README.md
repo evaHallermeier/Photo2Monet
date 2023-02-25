@@ -89,7 +89,7 @@ https://colab.research.google.com/drive/1iMD9sCEPMLV7qHi53t0e0P8kmBg0T2au?usp=sh
 - Test
       
  ## Installation:
- The notebook 2 TEST run the notebook and at the cell of UPLOAD PHOTO: you can upload a photo of your choice, and the model will generate the Monet style version image.
+ The notebook TEST :run the notebook and at the cell of UPLOAD PHOTO: you can upload a photo of your choice, and the model will generate the Monet style version image.
  
  
  Result of Best model:
