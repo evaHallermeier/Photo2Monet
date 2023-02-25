@@ -92,8 +92,5 @@ https://colab.research.google.com/drive/1iMD9sCEPMLV7qHi53t0e0P8kmBg0T2au?usp=sh
  The notebook TEST :run the notebook and at the cell of UPLOAD PHOTO: you can upload a photo of your choice, and the model will generate the Monet style version image.
  
  
- Result of Best model:
- 
- INSERT HERE EXEMPLES OF RESULTS
  
  The team: Eva Hallermeier and Noam Koren
