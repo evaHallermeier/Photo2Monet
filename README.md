@@ -11,7 +11,7 @@ DO NOT RUN IT!! because it will take few hours to get all output
 link of the colab notebook: https://colab.research.google.com/drive/1UBufJiyDc4_NaPOWSkX7kp_2YFD58E8P?usp=sharing
 
 
-###Table of content:
+### Table of content:
 
       -Description of the project
             -Architecture of CYCLE GAN
@@ -82,7 +82,7 @@ https://colab.research.google.com/drive/1WoIo7P7S2vVl7XVmZsKQIPQHeYJt-D1s?usp=sh
 
 https://colab.research.google.com/drive/1iMD9sCEPMLV7qHi53t0e0P8kmBg0T2au?usp=sharing
 
-###Table of content of the notebook:
+### Table of content
 
 - Load model
 - Upload a photo from your computer
