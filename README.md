@@ -2,9 +2,7 @@
 
 # Deep learning final semester Project - Kaggle competition: add Monet style to a photo
 
-The project is separated in two notebooks:
-
-## Notebook - Training of second model : Neural style transfer with different experiments
+## Training of second model : Neural style transfer with different experiments
 DO NOT RUN IT!!
 link of the colab notebook: 
 https://colab.research.google.com/drive/1WoIo7P7S2vVl7XVmZsKQIPQHeYJt-D1s?usp=sharing
@@ -28,7 +26,7 @@ https://colab.research.google.com/drive/1WoIo7P7S2vVl7XVmZsKQIPQHeYJt-D1s?usp=sh
       - Loss over time
 
 
-## Notebook 3 TEST-
+## Notebook TEST-
 
 https://colab.research.google.com/drive/1iMD9sCEPMLV7qHi53t0e0P8kmBg0T2au?usp=sharing
 
